@@ -1,0 +1,18 @@
+Often too many lines resulting in propblems of creating an 8 by 8 image. 
+
+The white lines in the beginning 
+and end are disturbing and lead to too many rows of pixel. 
+
+Tries to copy the exact parts that I have used 
+like horizontal line, point, loop. But they are not always enough 
+
+Resulting changes: 
+In general
+- use more objects to draw so that the set is complete to draw all my test cases
+- use less examples so GPT3 is not focused too much on them
+- maybe also a hint to use larger images
+
+to make sure the not more than 8 rows
+- Leave out the parts of describing the empty rows and just add them to other elements
+- Describe better that it should not be more than 8 rows
+- The same format for all examples: divide the images in same sized parts

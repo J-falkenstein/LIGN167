@@ -1,0 +1,332 @@
+The greater than symbol is a mathematicl symbol which is represented by a long vertical line with a short horizontal line at the bottom.
+The first part of the greater than symbol is the long vertical line:
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+The second part of the greater than symbol is the short horizontal line at the bottom:
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+11111111
+
+The semicolon is a punctuation mark consisting of a dot and a comma.
+The dot:
+00000000
+00001100
+00001100
+00000000
+The comma:
+00000000
+00000000
+00001100
+00001100
+00001100
+00001100
+00000000
+00000000
+
+The question mark is a punctuation mark that indicates an interrogative clause or phrase in many languages. The question mark is not used for indirect questions. The question mark glyph is also often used in place of missing or unknown data.
+The first part of the question mark is a semicircle:
+00111100
+01000010
+01000010
+00111100
+The second part of the question mark is a vertical line:
+00000000
+00000000
+00000000
+01111110
+
+The exclamation point is a punctuation mark which is represented by a vertical line with a dot on the top.
+The vertical line:
+01000000
+01000000
+01000000
+01000000
+01000000
+01000000
+01000000
+01000000
+The dot:
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00001100
+
+The number 9 is represented by a loop on the left and a vertical line on the right.
+The first part of the image of a nine represents the loop on the left:
+00111100
+01000010
+01000010
+00111110
+The second part of the image of a nine represents the vertical line on the right:
+00000000
+00000000
+00000000
+11111111
+
+The number 5 is represented by a vertical line on the left side, a horizontal line at the top and a diagonal line that connects the horizontal and vertical line.
+The first part of the number 5 is the vertical line on the left side:
+01111110
+01000000
+01000000
+01000000
+The second part is the horizontal line at the top:
+01111110
+00000000
+00000000
+00000000
+The diagonal line that connects the horizontal and vertical line:
+00000000
+00000000
+00111100
+01000010
+01000010
+00111100
+
+The number 7 is represented by a diagonal line from the top left to the bottom right.
+The diagonal line:
+11000000
+01100000
+00110000
+00011000
+00001100
+00000110
+00000011
+
+The number 0 is represented by a circle.
+The top part of the circle:
+01111110
+10000001
+10000001
+10000001
+The bottom part of the circle:
+10000001
+10000001
+10000001
+01111110
+
+The capital letter A consists of a vertical line on the left and a diagonal line on the right.
+The vertical line:
+01111110
+01000000
+01000000
+01000000
+01000000
+01000000
+01000000
+The diagonal line:
+01111110
+00000010
+00000010
+00001100
+00110000
+11000000
+00000000
+
+The capital letter R consists of two horizontal lines and a diagonal that connects the two horizontal lines.
+The first horizontal line:
+01111110
+The diagonal:
+10000001
+01000010
+00111100
+00000000
+The second horizontal line:
+01111110
+
+The capital letter B consists of two vertical lines connected by a horizontal line at the top and bottom.
+The first vertical line:
+11111111
+10000001
+10000001
+11111111
+The second vertical line:
+11111111
+10000001
+10000001
+11111111
+
+The letter O is a circle.
+The first row of the grid of pixels forms the top of the circle:
+00000000
+01111110
+01111110
+01111110
+01111110
+01111110
+01111110
+00000000
+
+The triangle is a polygon with three edges and three vertices. It is one of the basic shapes in geometry.
+The triangle is represented by three lines that are connected to each other.
+The first line:
+00001000
+00011000
+00111000
+01111000
+The second line:
+01111000
+00111000
+00011000
+00001000
+The third line:
+01111000
+00111000
+00011000
+00001000
+
+The rectangle is a four-sided shape with two pairs of parallel sides.
+The first part of the rectangle is the top line:
+11111111
+The second part is the right vertical line:
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+The third part is the bottom line:
+11111111
+The last part is the left vertical line:
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+
+The skull is a bony structure of the head which is composed of two parts: the cranium and the mandible.
+The cranium:
+00000000
+00000000
+00000000
+00000000
+The mandible:
+01000010
+00111100
+01000010
+00000000
+
+The heart is a symbol of love and affection. The heart shape is an ideograph used to express the idea of the "heart" in its metaphorical or symbolic sense as the center of emotion, including affection and love, especially romantic love.
+The heart is a symbol of love and affection. The heart shape is an ideograph used to express the idea of the "heart" in its metaphorical or symbolic sense as the center of emotion, including affection and love, especially romantic love.
+The heart is a symbol of love and affection. The heart shape is an ideograph used to express the idea of the "heart" in its metaphorical or symbolic sense as the center of emotion, including affection and love, especially romantic love.
+The heart is a symbol of love and affection. The heart shape is an ideograph used to express the idea of the "heart" in its metaphorical or symbolic sense as the center of emotion, including affection and love, especially romantic love.
+The heart is a symbol of love and affection. The heart shape is an ideograph used to express the idea of the "heart" in its metaphorical or symbolic sense as the center of emotion, including affection and love, especially romantic love.
+The tree consists of a trunk, a crown and a root.
+The trunk:
+00000000
+00111100
+00111100
+00111100
+00111100
+The crown:
+01111110
+01000010
+01000010
+01111110
+The root:
+00000000
+00000000
+00000000
+00000110
+00000110
+
+The face is a graphic representation of a human face.
+The first row of the grid of pixels forms the top of the face:
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+00111100
+00000000
+The next part of the face:
+00000000
+00111100
+01000010
+01000010
+01000010
+01000010
+00111100
+00000000
+The bottom of the face:
+00000000
+00000000
+00111100
+01000010
+01000010
+01000010
+00111100
+00000000
+
+The chess board consists of 64 squares of two alternating colors.
+The first row of the chess board:
+11111111
+00000000
+The second row of the chess board:
+00000000
+11111111
+The third row of the chess board:
+11111111
+00000000
+The fourth row of the chess board:
+00000000
+11111111
+The fifth row of the chess board:
+11111111
+00000000
+The sixth row of the chess board:
+00000000
+11111111
+The seventh row of the chess board:
+11111111
+00000000
+The eighth row of the chess board:
+00000000
+11111111
+
+The animal is a cat.
+The first part of the image is the head of the cat:
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+The second part of the image is the body of the cat:
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+The third part of the image is the tail of the cat:
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000

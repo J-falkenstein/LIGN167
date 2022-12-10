@@ -1,0 +1,55 @@
+
+The greater than symbol is a mathematicl symbol which is represented by a diagonal line that is slanted to the right.
+The first row of the 8 by 8 pixel matrix is left white (1 pixel row):
+00000000
+The diagonal line (7 pixel rows):
+00000011
+00000110
+00001100
+00011000
+00110000
+01100000
+11000000
+This makes a total of 1+7=8 pixel rows.
+
+The face is represented by two eyes, a nose and a mouth.
+The first part of the face is the left eye (3 pixel rows):
+00000000
+00111100
+00111100
+The second part of the face is the right eye (3 pixel rows):
+00000000
+00111100
+00111100
+The third part of the face is the nose (2 pixel rows):
+00000000
+01111110
+The last part of the face is the mouth (2 pixel rows):
+00000000
+01111110
+This makes a total of 3+3+2+2=8 pixel rows.
+
+The face is represented by a circle and two eyes.
+The first row of the 8 by 8 pixel matrix is left white (1 pixel row):
+00000000
+The circle (7 pixel rows):
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+This makes a total of 1+7=8 pixel rows.
+
+The greater than symbol is a mathematical symbol which is represented by a diagonal line that starts at the bottom left and ends at the top right.
+The diagonal line (8 pixel rows):
+00000011
+00000110
+00001100
+00011000
+00110000
+01100000
+11000000
+00000000
+This makes a total of 8 pixel rows.

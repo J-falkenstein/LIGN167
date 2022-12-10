@@ -1,0 +1,116 @@
+
+The greater than symbol is a mathematical symbol which is represented by a pointy arrow.
+The first row of the 8 by 8 pixel matrix is left white:
+00000000
+The first part of the arrow:
+00000110
+00001100
+00011000
+00110000
+01100000
+The second part of the arrow:
+11000000
+01100000
+00110000
+00011000
+00001100
+00000110
+The last row of the 8 by 8 pixel matrix is left white:
+00000000
+
+The greater than symbol is a mathematical symbol which is represented by a horizontal line with a point on the right side.
+The horizontal line:
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+The point on the right side:
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+
+The greater than symbol is a mathematical symbol that is represented by a small, solid triangle pointing to the right.
+The first row of the 8 by 8 pixel matrix is left white:
+00000000
+The second row of the 8 by 8 pixel matrix is left white:
+00000000
+The third row of the 8 by 8 pixel matrix is left white:
+00000000
+The fourth row of the 8 by 8 pixel matrix is left white:
+00000000
+The fifth row of the 8 by 8 pixel matrix is left white:
+00000000
+The sixth row of the 8 by 8 pixel matrix is left white:
+00000000
+The seventh row of the 8 by 8 pixel matrix is left white:
+00000000
+The eighth row of the 8 by 8 pixel matrix is left white:
+00000000
+
+The semicolon is a punctuation mark consisting of a dot and a comma.
+The first row of pixels is left white because the space is not needed to draw a semicolon:
+00000000
+The dot:
+00001100
+00001100
+The comma:
+00000011
+00000011
+The remainder of the 8 by 8 pixel matrix is left white:
+00000000
+00000000
+
+The question mark is a punctuation mark that indicates an interrogative clause.
+The question mark consists of a semicircle and a dot.
+The first row of the 8 by 8 pixel matrix is left white:
+00000000
+The semicircle:
+00111100
+01000010
+01000010
+00111100
+The dot:
+00000000
+00000000
+00000000
+00001100
+
+The question mark is a punctuation mark that is used to indicate a question.
+The first row of the 8 by 8 pixel matrix is left white:
+00000000
+The first part of the question mark is a semicircle:
+00001100
+00011000
+00110000
+01100000
+11000000
+The second part of the question mark is a vertical line:
+11000000
+The third part of the question mark is a horizontal line:
+11000000
+The last part of the question mark is a vertical line:
+00000011
+
+The question mark is a punctuation mark that consists of a dot and a curved line.
+The dot:
+00000000
+00000000
+00001100
+00001100
+The curved line:
+00000000
+00000000
+01000010
+00111100
+01000010
+00000000
+00000000

@@ -1,0 +1,136 @@
+Images displayed on a computer screen are actually a collection of dots of color, called pixels. If you look really closely at the screen, you will be able to see the individual pixels. The collection of pixels that make up an image are stored as a matrix.
+We can represent different objects (e.g., numbers, letters, or shapes) by creating a pixel matrix which consists of 0s and 1s. The matrix should be of the size 8 by 8. Each entry represents a pixel of a black or a white pixel. That means the image has a display capable of 8 pixels in width and 8 pixels in height. Since there are only 64 pixels in total the objects to be displayed are significantly simplified.
+
+Here is an example of an 8 by 8 pixel matrix showing an umbrella:
+00111100
+01111110
+11111111
+00001000
+00001000
+00001000
+00101000
+00011000
+###
+
+Here is an example of a grid of pixels that form an image of a sad face:
+01100110
+00000000
+00001000
+00010000
+00000000
+00111100
+01000010
+10000001
+###
+
+Here is an example of a grid of pixels that form an image of a cat:
+00010001
+00011111
+10010101
+11111111
+11111110
+11111110
+10101010
+10101010
+###
+
+Here is an example of an 8 by 8 pixel matrix showing a crab:
+01100110
+10000001
+11100111
+10000001
+01111110
+01011010
+01111110
+01000010
+###
+
+Here is an example of a grid of pixels that form an image of a key:
+00011100
+00100010
+00100010
+00011100
+00001000
+00001100
+00001000
+00001100
+###
+
+Here is an example of a grid of pixels that form an image of a cactus:
+00010000
+00111010
+00111110
+00111000
+10111000
+11111000
+00111000
+01111100
+###
+
+Here is an example of an 8 by 8 pixel matrix showing a wine glass half full:
+01000100
+01000100
+01000100
+01111100
+01111100
+00111000
+00010000
+00010000
+01111100
+###
+
+Here is an example of a grid of pixels that form an image of a wine glass completly full:
+01111100
+01111100
+01111100
+01111100
+01111100
+00111000
+00010000
+00010000
+01111100
+###
+
+Here is an example of a grid of pixels that form an image of a mouse:
+00000000
+11001100
+11001100
+01111000
+00101000
+01111010
+01111100
+01001000
+###
+
+Here is an example of an 8 by 8 pixel matrix showing a cup:
+00000000
+11111100
+11111111
+11111101
+11111101
+11111110
+11111000
+00000000
+###
+
+Here is an example of a grid of pixels that form an image of a flash:
+00001100
+00011000
+00110000
+11111111
+00000110
+00001100
+00011000
+00110000
+###
+
+Here is an example of a grid of pixels that form an image of a padlock:
+00111000
+01000100
+01000100
+11111110
+11101110
+11101110
+11111110
+01111100
+###

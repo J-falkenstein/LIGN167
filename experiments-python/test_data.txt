@@ -1,0 +1,20 @@
+greater than symbol
+semi-colon
+question mark
+exclamation point
+number 9
+number 5
+number 7
+number 0
+letter A
+letter R
+letter B
+letter O
+triangle
+rectangle
+skull
+heart
+tree
+face
+chess board
+animal

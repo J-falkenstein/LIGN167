@@ -1,0 +1,46 @@
+*******FORMAT*******
+Object, Category, Size, Position
+Pixel Matrix (one line per row)
+*****ENDFORMAT******
+captial letter H, letters, big, 
+00000000
+01000010
+01000010
+01000010
+01111110
+01000010
+01000010
+01000010
+
+capital letter F, letters, big 
+00000000
+01111110
+01100000
+01000000
+01111110
+01100000
+01000000
+01000000
+
+captial letter A, letters, big
+00000000
+00011000
+00100100
+01000010
+01111110
+01000010
+01000010
+01000010
+
+
+captial letter G, letters, big
+00000000
+00111100
+01000010
+01000000
+01000111
+01000010
+00111100
+00000000
+
+

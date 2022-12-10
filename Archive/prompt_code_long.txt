@@ -1,0 +1,120 @@
+Here is an example of a grid of pixels that form an image of the number ninety-eight:
+00000000
+00000000
+11101110
+10101010
+11101110
+00101010
+11101110
+00000000
+###
+
+Here is an example of a grid of pixels that form an image of the number twelve:
+00000000
+00000000
+11101110
+10101010
+11101110
+00101010
+11101110
+00000000
+###
+
+Here is an example of a grid of pixels that form an image of the captial letter H:
+00000000
+01000010
+01000010
+01000010
+01111110
+01000010
+01000010
+01000010
+###
+
+Here is an example of a grid of pixels that form an image of the captial letter A:
+00000000
+00011000
+00100100
+01000010
+01111110
+01000010
+01000010
+01000010
+###
+
+Here is an example of a grid of pixels that form an image of a question mark:
+00000000
+00111100
+01100110
+00001100
+00011000
+00010000
+00000000
+00010000
+###
+
+Here is an example of a grid of pixels that form an image of a ellipse:
+00000000
+00011000
+00100100
+01000010
+00100100
+00011000
+00000000
+00000000
+###
+
+Here is an example of a grid of pixels that form an image of a tree:
+00111100
+01111110
+11111111
+11111111
+11111111
+00011000
+00011000
+00011000
+###
+
+Here is an example of a grid of pixels that form an image of a smiley face:
+01100110
+01100110
+00000000
+00010000
+10000001
+01000010
+00111100
+00000000
+###
+
+Here is an example of a grid of pixels that form an image of a mouse:
+00000000
+11001100
+11001100
+01111000
+00101000
+01111010
+01111100
+01001000
+###
+
+Here is an example of a grid of pixels that form an image of a cat:
+00010001
+00011111
+10010101
+11111111
+11111110
+11111110
+10101010
+10101010
+###
+
+Here is an example of a grid of pixels that form an image of a crown:
+10010001
+11011011
+11111111
+11011101
+11111111
+00000000
+00000000
+00000000
+###

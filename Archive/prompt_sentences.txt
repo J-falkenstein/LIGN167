@@ -1,0 +1,6 @@
+1. Create an 8 by 8 pixel matrix that shows a black and white image of a
+2. Create a pixel matrix with 8 pixel width and 8 pixel height displaying a image of a
+3. Create an black and white image showing __ by generating a pixel grid of the size 8 by 8
+4. Create an black and white image showing __ by outputting a pixel matrix of the size 8 by 8
+5. Show a 8 by 8 pixel matrix which represents a white and black image of an
+6. Make a grid of pixels of size 8 by 8 that form an image of a

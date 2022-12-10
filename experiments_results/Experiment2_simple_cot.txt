@@ -1,0 +1,86 @@
+Images displayed on a computer screen are actually a collection of dots of color, called pixels. If you look really closely at the screen, you will be able to see the individual pixels. The collection of pixels that make up an image are stored as a matrix.
+We can represent different objects (e.g., numbers, letters, or shapes) by creating a pixel matrix which consists of 0s and 1s. The matrix should be of the size 8 by 8. Each entry represents a pixel of a black or a white pixel. That means the image has a display capable of 8 pixels in width and 8 pixels in height. Since there are only 64 pixels in total the objects to be displayed are significantly simplified. In the following examples, the images are created step-by-step from top to bottom. 
+
+Here is an example of an 8 by 8 pixel matrix showing the number three:
+First, the first two rows of the pixel matrix:
+00000000
+00111110
+Then the middle part of the image:
+00000110
+00111100
+00001110
+00000110
+Last, the last two rows of the pixel matrix:
+00111100
+00000000
+###
+
+Here is an example of a grid of pixels that form an image of the number two:
+First, the first two rows of the pixel matrix:
+00000000
+00111100
+Then the middle part of the image:
+01100110
+00001100
+00011000
+00110000
+Last, the last two rows of the pixel matrix:
+01111110
+00000000
+###
+
+Here is an example of an 8 by 8 pixel matrix showing the letter F:
+First, the first two rows of the pixel matrix:
+01111110
+01100000
+Then the middle part of the image:
+01000000
+01111110
+01100000
+01000000
+Last, the last two rows of the pixel matrix:
+01000000
+00000000
+###
+
+Here is an example of a grid of pixels that form an image of the letter Z:
+First, the first two rows of the pixel matrix:
+11111111
+00000011
+Then the middle part of the image:
+00000110
+00011000
+00110000
+01100000
+Last, the last two rows of the pixel matrix:
+11000000
+11111111
+###
+
+Here is an example of an 8 by 8 pixel matrix showing a colon:
+First, the first two rows of the pixel matrix:
+00000000
+00001100
+Then the middle part of the image:
+00001100
+00000000
+00001100
+00001100
+Last, the last two rows of the pixel matrix:
+00000000
+00000000
+###
+
+Here is an example of a grid of pixels that form an image of an equal sign:
+First, the first two rows of the pixel matrix:
+00000000
+11111111
+Then the middle part of the image:
+11111111
+00000000
+00000000
+00000000
+Last, the last two rows of the pixel matrix:
+11111111
+11111111
+###
